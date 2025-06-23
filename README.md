@@ -1,2 +1,2 @@
-# test1
-try to understand how this work
+# practice part 1
+try to practice some activities like creating log in and sign up 
